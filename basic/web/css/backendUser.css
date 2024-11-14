@@ -1,0 +1,107 @@
+.backendProfile{
+    display: flex;
+    justify-content: center;
+    border-radius: 200px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+
+.backend-users-view{
+    display: flex;
+    justify-content: center;
+    background-color: #FFD700;
+    width: 90%;
+    height: 90%;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.backend-users-view-secondBoarder{
+    width: 90%;
+    height: 90%;
+    background-color: #f6f6f6;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.backendRow1{
+
+    border-radius: 20px;
+}
+
+.backendCol{
+    padding: 10px;
+
+    height: 50px;
+
+
+}
+
+.backendCol1{
+    padding: 10px;
+    border-radius: 20px;
+    height: 50px;
+    background-color: white;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+
+}
+
+.backendCol p{
+    font-size: 16px;
+    font-family: 'Lexend', sans-serif;
+    font-weight: bold;
+}
+
+.BackendProfilePictureInPost{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.backendButtons{
+    padding-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.backendButtons .btn {
+   margin: 10px;
+}
+
+.backendTitle{
+    text-align: center;
+    font-family: 'Lexend', sans-serif;
+}
+
+.nameBar{
+    text-align: center;
+    background-color: transparent !important;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #333;
+    width: 80%
+}
+.dropDownBox{
+    text-align: center;
+    background-color: transparent !important;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #333;
+    width: max-content;
+}
+
+.formSize{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+}
+
+/*font-size: 16px;*/
+/*font-family: 'Lexend', sans-serif;*/
+
+/*<div class="backendRow1">*/
+/*<div class="backendCol">*/
